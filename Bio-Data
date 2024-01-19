@@ -1,0 +1,73 @@
+<html>
+<head>
+    <title>Subhomoy Majhi</title>
+</head>
+<body style="background-color:powderblue;">
+
+<center>
+    <br>
+    <p>.....................................................................</p>
+    <p><font size="6">
+        BIO    DATA
+    </font>  </p>
+    <p>.....................................................................</p>
+    <br>
+
+    <table style="width:90px;height:110px" border="2px">
+        <tr>
+            <td>
+                <img style="width: 90px;height: 100px" src="Assets/WhatsApp Image 2024-01-14 at 9.36.53 PM.jpg" >
+            </td>
+        </tr>
+    </table>
+
+
+    <p> <b>Subhomoy Majhi</b> </p>
+    <p> PROGRAM : BCA, Adamas University</p>
+    <P> subhomoy.majhi@stu.adamasuniversity.ac.in </P>
+    <p> +91 6289096628 </p>
+    <br>
+    <p> <b>QUALIFICATIONS</b> </p>
+            <table style="width:1300px;height:82px" border="2px">
+        <tr>
+            <td>
+                SECONDARY (2014-2020) : 70% - Adamas World School
+            </td>
+            <td>
+                HIGHER SECONDARY (2021-2022) : 75% - Adamas World School
+            </td>
+            <td>
+                BCA (UG) (Currently Pursuing, 2023-27) - Adamas University
+            </td>
+
+        </tr>
+
+    </table>
+
+    <br>
+    <p> <b>ACHIEVEMENTS</b> : </p>
+    <p>*Completed Google Cloud Computing Course.</p>
+
+    <br>
+    <p> <b>EXPERIMENT</b> : </p>
+       *NONE
+
+    <br>
+    <p> <b>PROJECTS</b> : </p>
+    <p>*Hackathon: Worked and designed a prototype an application.
+      <br>
+        *GDSC: Cloud Computing
+    </p>
+    <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+    <br>
+    <br>
+
+    <p><i>"Thank you for taking the time to carefully review my details. I appreciate your consideration."</i></p>
+
+
+</center>
+
+</>
+
+</html>
