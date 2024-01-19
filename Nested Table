@@ -1,0 +1,48 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment</title>
+</head>
+<body>
+<table border="2px" style="height:250px;width:190px">
+    <tr>
+        <td>A</td>
+        <td rowspan="2">C</td>
+        <td rowspan="2" colspan="2">
+            <table align="center" border="1px" style="height: 50px;width: 50px">
+                <tr>
+                    <td>K</td>
+                    <td rowspan="2">N</td>
+                </tr>
+
+                <tr>
+                    <td>L</td>
+                </tr>
+
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td>B</td>
+    </tr>
+
+    <tr>
+        <td colspan="2">D</td>
+        <td rowspan="4">H</td>
+        <td>J</td>
+    </tr>
+
+    <tr>
+        <td>E</td>
+        <td rowspan="2">G</td>
+        <td rowspan="2">I</td>
+    </tr>
+
+    <tr>
+        <td>F</td>
+    </tr>
+
+</table>
+</body>
+</html>
